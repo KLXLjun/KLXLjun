@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Go           5 hrs 45 mins   ████████████████████▒░░░░   81.61 % 
-HTML         1 hr 7 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Logos        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Go           1 hr 36 mins    █████████████████▒░░░░░░░   69.99 % 
+HTML         41 mins         ███████▒░░░░░░░░░░░░░░░░░   29.96 % 
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 <!--END_SECTION:waka-->
