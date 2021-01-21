@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Go           22 mins         ████████████████▓░░░░░░░░   66.12 % 
-YAML         11 mins         ████████▒░░░░░░░░░░░░░░░░   33.85 % 
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Go           45 mins         ██████████▓░░░░░░░░░░░░░░   42.22 % 
+Markdown     27 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.99 % 
+HTML         12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+YAML         11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+JavaScript   11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
 ```
 <!--END_SECTION:waka-->
