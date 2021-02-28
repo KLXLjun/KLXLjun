@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-HTML       13 mins         ████████████████████████▓   98.44 % 
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-CSS        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+HTML   13 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
