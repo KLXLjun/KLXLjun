@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ```text
 Go         1 hr 50 mins    ██████████████████████░░░   88.59 % 
-HTML       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+HTML       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 JSON       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 Markdown   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 CSS        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
