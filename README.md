@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Go           17 mins         ████████████████▒░░░░░░░░   65.86 % 
+JavaScript   5 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.10 % 
+HTML         3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 <!--END_SECTION:waka-->
