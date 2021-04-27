@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Go           54 mins         █████████████████████▓░░░   86.05 % 
-HTML         5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-Python       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Go           17 mins         ████████████████████████░   95.78 % 
+HTML         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 <!--END_SECTION:waka-->
