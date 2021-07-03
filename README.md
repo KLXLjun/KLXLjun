@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 11 mins    █████████████████▓░░░░░░░   70.66 % 
-Other        21 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.73 % 
-C++          3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-C            3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Text         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
