@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C             4 hrs 52 mins   █████████░░░░░░░░░░░░░░░░   36.39 % 
-C++           3 hrs 58 mins   ███████▒░░░░░░░░░░░░░░░░░   29.65 % 
-JavaScript    2 hrs 22 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Objective-C   1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-Go            22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+C             6 hrs 9 mins    ████████░░░░░░░░░░░░░░░░░   32.58 % 
+JavaScript    5 hrs 47 mins   ███████▓░░░░░░░░░░░░░░░░░   30.62 % 
+C++           4 hrs 46 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.30 % 
+Objective-C   1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Go            22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 <!--END_SECTION:waka-->
