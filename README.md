@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C++     1 hr 2 mins     █████████████▒░░░░░░░░░░░   53.71 % 
-C       45 mins         █████████▓░░░░░░░░░░░░░░░   38.60 % 
-C#      5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Other   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
