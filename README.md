@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-HTML     19 mins         ██████████████▒░░░░░░░░░░   57.84 % 
-Svelte   14 mins         ██████████▒░░░░░░░░░░░░░░   41.97 % 
-Go       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
