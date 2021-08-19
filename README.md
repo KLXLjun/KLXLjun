@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C#   3 mins          █████████████████████████   100.00 % 
+Svelte       16 mins         ████████▓░░░░░░░░░░░░░░░░   34.47 % 
+JavaScript   9 mins          █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+Markdown     8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.85 % 
+HTML         5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+JSON         4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
 ```
 <!--END_SECTION:waka-->
