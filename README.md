@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-HTML       20 mins         ███████████████████░░░░░░   76.56 % 
-JSON       2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Python     2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-CSS        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
