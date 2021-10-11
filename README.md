@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-XAML         52 mins         ██████████▓░░░░░░░░░░░░░░   42.66 % 
-Go           51 mins         ██████████▒░░░░░░░░░░░░░░   41.58 % 
-C#           15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-JavaScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Go           19 mins         ██████████████████████░░░   88.58 % 
+JavaScript   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
 ```
 <!--END_SECTION:waka-->
