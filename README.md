@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Svelte       5 hrs 14 mins   ██████████▒░░░░░░░░░░░░░░   40.70 % 
-JavaScript   3 hrs 13 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.10 % 
-Go           3 hrs 10 mins   ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-HTML         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-Markdown     20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+JavaScript   2 hrs 43 mins   ███████████░░░░░░░░░░░░░░   43.55 % 
+Go           1 hr 41 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.02 % 
+Svelte       1 hr 8 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Markdown     20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+HTML         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 ```
 <!--END_SECTION:waka-->
